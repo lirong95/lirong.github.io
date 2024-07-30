@@ -11,4 +11,4 @@ I am currently a postdocal associate from [Department of Biostatistics, Yale Uni
 
 My general interest lies in high-dimensional data analysis, particularlly focus on heterogeneity analysis and network analysis. My research interests also include bootstrap development, model uncertainty, and robust analysis. For applications, I am dedicated to applying the statistical learning to cancer heterogeneity, including cancer genotyping and immunotyping, to facilitate personal treatment and drug discovery. 
 
-You can find my CV here: [Rong Li's Curriculum Vitae](../assets/CV_Rong Li.pdf).
+You can find my CV here: [Rong Li's Curriculum Vitae](lirong95/lirong.github.io/assets/CV_Rong Li.pdf).
